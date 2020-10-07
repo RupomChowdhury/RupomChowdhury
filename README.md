@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p>Hello I'm Rupom and I have hands-on experience of 2 years, in designing and development of the websites,graphics design,data entry! I have gone through the requirements and realized, I am the right fit with experience, skills, and technology needed to complete/deliver the project..
+I assure faster delivery, and quality product as an end result. </p>
 - 💬 Ask me about ...
 
 <!--

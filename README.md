@@ -43,7 +43,6 @@
 
 
 <!--
-**RupomChowdhury/RupomChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -56,10 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...
+
+<!-- <p><h4>I have hands-on experience of 2 years, in designing and development of websites!</h4></p>
 -->
-<!--**<p><h4>I have hands-on experience of 2 years, in designing and development of websites!</h4></p>
-
-
-
---- />
 

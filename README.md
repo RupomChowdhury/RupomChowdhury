@@ -1,7 +1,7 @@
 <p align="center">    
     <font color='blue'><h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1></font>
 </p>
-<p align="center"> A Passionate Frontend & Backend Developer from Bangladesh.</p>
+<h3 align="center">A Passionate Frontend & Backend Developer from Bangladesh.</h3>
 
 ---
 

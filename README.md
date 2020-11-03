@@ -8,6 +8,10 @@
 👋
 <p><h4>I have hands-on experience of 2 years, in designing and development of websites!</h4></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupomchowdhury&show_icons=true&locale=en&layout=compact" alt="rupomchowdhury" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupomchowdhury&show_icons=true&locale=en" alt="rupomchowdhury" /></p>
+
 
 <!--
 **RupomChowdhury/RupomChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

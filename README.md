@@ -15,11 +15,6 @@
 
 ---
 
-<!--**<p><h4>I have hands-on experience of 2 years, in designing and development of websites!</h4></p>
-
-
-
---- />
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&count_private=true&include_all_commits=true" />
@@ -43,3 +38,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...
 -->
+<!--**<p><h4>I have hands-on experience of 2 years, in designing and development of websites!</h4></p>
+
+
+
+--- />
+

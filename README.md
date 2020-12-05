@@ -34,7 +34,7 @@
 <a href="https://dev.to/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://twitter.com/web_rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RupomChowdhury" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14770061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://codesandbox.com/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://instagram.com/web.rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://medium.com/@RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@RupomChowdhury" height="30" width="40" /></a>

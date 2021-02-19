@@ -41,6 +41,8 @@
 <a href="https://www.youtube.com/c/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> 
+
 
 <!--
 

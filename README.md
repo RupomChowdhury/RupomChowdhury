@@ -35,11 +35,11 @@
 <a href="https://codepen.io/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://dev.to/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://twitter.com/web_rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14770061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://codesandbox.com/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://instagram.com/web.rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://medium.com/@web.rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/RupomChowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a href="https://www.facebook.com/web.rupom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> 

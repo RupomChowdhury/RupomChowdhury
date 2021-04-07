@@ -24,7 +24,7 @@
 ---
 
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 </div>
 
 ---

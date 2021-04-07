@@ -23,9 +23,9 @@
 
 ---
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" /></p>
-
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+</div>
 
 ---
 

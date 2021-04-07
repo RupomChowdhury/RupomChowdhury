@@ -46,11 +46,6 @@
 ---
 
 
-<p align="center">
-  
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
-</p>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> 
 
 

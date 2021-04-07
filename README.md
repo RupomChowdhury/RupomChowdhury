@@ -25,9 +25,9 @@
 
 <div>
 <img height="179" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
-<img height="178" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" />
+<img height="178" src="https://github.com/RupomChowdhury/meet-me-opl/blob/main/preview.gif" />
 </div>
-<img src="https://github.com/RupomChowdhury/meet-me-opl/blob/main/preview.gif" />
+
 ---
 
 <h3 align="left">Connect with me:</h3>

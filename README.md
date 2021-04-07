@@ -17,8 +17,8 @@
 
 
 <div>
-<img height="178" align="left" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&count_private=true&include_all_commits=true" />
-  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupomChowdhury&layout=compact" />
+<img height="179" align="left" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&count_private=true&include_all_commits=true" />
+  <img height="179" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupomChowdhury&layout=compact" />
 </div>
 
 ---

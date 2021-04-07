@@ -24,7 +24,8 @@
 ---
 
 <div>
-<img height="340" width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="179" width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="178" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" />
 </div>
 
 ---

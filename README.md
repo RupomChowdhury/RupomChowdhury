@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1>
-<h3 align="center">A Passionate Frontend & Backend Developer from Bangladesh.</h3>
+<h3 align="center">Learning to Code</h3>
 
 ---
 

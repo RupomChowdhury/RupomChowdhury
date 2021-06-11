@@ -24,9 +24,9 @@
 ---
 
 <div>
-<img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" />
-<img height="189" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
-<img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> 
+<img height="175" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" />
+<img height="199" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="175" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> 
 </div>
 
 ---

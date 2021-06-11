@@ -25,7 +25,7 @@
 
 <div>
 <img height="150" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" />
-<img height="179" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="189" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <img height="150" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> 
 </div>
 

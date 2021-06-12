@@ -25,7 +25,7 @@
 
 <div>
 <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="198" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev6.gif" /> 
 </div>
 

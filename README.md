@@ -24,8 +24,8 @@
 ---
 
 <div>
-<img height="185" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
-<img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="175" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <img height="175" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev2.gif" /> 
 </div>
 

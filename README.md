@@ -21,12 +21,12 @@
 ---
 
 <div>
-<img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <!-- <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> -->
 <h3>Connect with me:</h3>
 <p height="170" align="right">
-<a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury"/></a>
 <a href="https://www.facebook.com/web.rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/RupomChowdhury" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>

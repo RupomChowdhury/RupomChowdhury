@@ -25,7 +25,7 @@
 
 <div>
 <div>
-<img height="170"; margin-left: 2; src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="170"; margin-left: 1; src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 </div>
 <div>
 <img height="198" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />

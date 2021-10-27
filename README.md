@@ -22,10 +22,10 @@
 
 <div>
 <img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
-<img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <!-- <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> -->
 
-<p width="80" height="170">
+<p width=80 height="170">
 <h3>Connect with me:</h3>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://www.facebook.com/web.rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>

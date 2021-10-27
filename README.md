@@ -24,7 +24,7 @@
 <img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <!-- <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> -->
-<div align="right">
+<div align="left">
 <h3>Connect with me:</h3>
 <p>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>

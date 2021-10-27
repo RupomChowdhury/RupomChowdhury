@@ -21,7 +21,7 @@
 ---
 
 <div>
-<img height="170" align="center" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <img height="170" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <!-- <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/tenor.gif" /> -->
 </div>

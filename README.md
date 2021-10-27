@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-<a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/github/status/micromatch/micromatch/4.0.1" /></a><a><img src="https://badgen.net/badge/icon/atom?icon=atom&label" /></a><a><img src="https://badgen.net/badge/icon/git?icon=git&label" /></a><a><img src="https://badgen.net/github/dependabot/ubuntu/yaru" /></a><a><img src="https://badgen.net/badge/code%20style/standard/f2a" /></a><a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a> 
+<a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->
 
 ---

@@ -7,7 +7,7 @@
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&column=8"/>
+  <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&theme=juicyfresh&column=8"/>
 </a>
 
 ---

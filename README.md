@@ -9,8 +9,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&column=8"/>
 </a>
----
 
+---
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&count_private=true&include_all_commits=true" />

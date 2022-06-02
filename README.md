@@ -26,7 +26,7 @@
 
 <p width=80 height="170">
 <h3>Connect with me:</h3>
-<a style="color:blue;" href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a style="background-color:DodgerBlue;" href="mailto:web.rupom@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://www.facebook.com/web.rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://twitter.com/web_rupom" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> <!-- © RupomChowdhury -->

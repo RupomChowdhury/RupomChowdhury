@@ -20,7 +20,7 @@
 ---
 
 <div>
-<img height="170" align="left" border-left="5px" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="170" align="left" border-right="5px" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <img height="170" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 

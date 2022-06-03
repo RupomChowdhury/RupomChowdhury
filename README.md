@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1>-->
-<h3 align="center"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev5.gif" alt="Verified" height="10" width="15"/>Learning to Code</h3>
+<h3 align="center"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev5.gif" alt="Verified" height="20" width="30"/>Learning to Code</h3>
 <p align="center">
 <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->

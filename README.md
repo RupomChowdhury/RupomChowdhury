@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1>-->
 <img align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/gangster.gif" alt="Gangster"/> <img height="25" width="25" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev5.gif" alt="Verified"/>
 <h3 align="center">Learning to Code</h3>
-<p align="center"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/gangster.gif" alt="Gangster"/> <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
+<p align="center"> <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->
 
 ---
@@ -26,6 +26,7 @@
 
 <p width=80 height="170">
 <h3>Connect with me:</h3>
+<img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/gangster.gif" alt="Gangster"/>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://www.facebook.com/web.rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>

@@ -24,6 +24,12 @@
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
 <img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483)](https://discord.com/users/438056108058345483)
+
+---
+
 <p width=80 height="170">
 <h3>Connect with me:</h3>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>

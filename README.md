@@ -26,7 +26,7 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483?idleMessage=Started%taking%V24!)](https://discord.com/users/438056108058345483)
+[![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483?idleMessage=Started%20taking%20V24%20!)](https://discord.com/users/438056108058345483)
 
 ---
 

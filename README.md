@@ -44,5 +44,5 @@
 </p>
 </div>
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> -->
-<p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/invisiblepanda/&title=Profile%20Views" alt="RupomChowdhury" /> </p>
+<p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RupomChowdhury/&title=Profile%20Views" alt="RupomChowdhury" /> </p>
 <!-- © RupomChowdhury -->

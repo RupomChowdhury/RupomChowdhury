@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1>-->
-<img align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/gangster.gif" alt="Gangster"/> <img height="25" width="25" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev5.gif" alt="Verified"/>
+<img align="left" src="https://github.com/invisiblepanda/invisiblepanda/blob/main/gangster.gif" alt="Gangster"/> <img height="25" width="25" align="right" src="https://github.com/invisiblepanda/invisiblepanda/blob/main/prev5.gif" alt="Verified"/>
 <h3 align="center">Learning to Code</h3>
 <p align="center"> <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->
@@ -7,22 +7,22 @@
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&theme=juicyfresh&column=8"/>
+  <img width=853 src="https://github-profile-trophy.vercel.app/?username=invisiblepanda&theme=juicyfresh&column=8"/>
 </a>
 
 ---
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupomChowdhury&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=invisiblepanda&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblepanda&layout=compact" />
 </div> <!-- © RupomChowdhury -->
 
 ---
 
 <div align="center">
-<img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
-<img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
+<img height="170" align="left" src="https://github.com/invisiblepanda/invisiblepanda/blob/main/prev3.gif" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=invisiblepanda&" alt="RupomChowdhury" />
+<img height="170" align="right" src="https://github.com/invisiblepanda/invisiblepanda/blob/main/heckerboi2.gif" />
 
 ---
 

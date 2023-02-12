@@ -30,6 +30,10 @@
 
 ---
 
+<figure><embed src="https://wakatime.com/share/@1bd388e4-1b23-4236-8e3c-88fb7df16b70/1dd6fa46-4b57-4bec-9e1f-435d2a880efe.svg"></embed></figure>
+
+---
+
 <p width=80 height="170">
 <h3>Connect with me:</h3>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>

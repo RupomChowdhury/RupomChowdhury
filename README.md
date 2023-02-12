@@ -30,7 +30,7 @@
 
 ---
 
-https://wakatime.com/share/@1bd388e4-1b23-4236-8e3c-88fb7df16b70/1dd6fa46-4b57-4bec-9e1f-435d2a880efe.svg
+<img src="https://wakatime.com/share/@1bd388e4-1b23-4236-8e3c-88fb7df16b70/1dd6fa46-4b57-4bec-9e1f-435d2a880efe.svg" />
 
 ---
 

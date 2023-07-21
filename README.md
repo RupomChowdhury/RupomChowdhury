@@ -13,18 +13,22 @@
 
 ---
 
+
 <div align="center">
 <img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <!--<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />-->
 [![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483?idleMessage=Doing%20Something%20Else%20!)](https://discord.com/users/438056108058345483)
 <img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 
+
 ---
+
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupomChowdhury&layout=compact" />
 </div> <!-- © RupomChowdhury -->
+
 
 ---
 

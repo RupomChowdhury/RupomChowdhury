@@ -14,7 +14,7 @@
 ---
 
 
-
+<div align="center">
 <img height="150" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 
   
@@ -22,6 +22,7 @@
 
 
 <img height="150" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
+</div>
 
 
 ---

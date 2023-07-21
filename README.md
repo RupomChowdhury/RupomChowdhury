@@ -16,9 +16,11 @@
 
 <div align="center">
 <img height="150" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<p width=80 height="170">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483)](https://discord.com/users/438056108058345483)
-  
+
+</p>
 <img height="150" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 
 

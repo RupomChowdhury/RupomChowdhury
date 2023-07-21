@@ -6,9 +6,17 @@
 
 ---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&theme=juicyfresh&column=8"/>
 </a>
+
+--->
+
+<div align="center">
+<img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<!--<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />-->
+[![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483?idleMessage=Doing%20Something%20Else%20!)](https://discord.com/users/438056108058345483)
+<img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 
 ---
 
@@ -19,16 +27,6 @@
 
 ---
 
-<div align="center">
-<img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupomChowdhury&" alt="RupomChowdhury" />
-<img height="170" align="right" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
-
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483?idleMessage=Doing%20Something%20Else%20!)](https://discord.com/users/438056108058345483)
-
----
 
 <img src="https://wakatime.com/share/@1bd388e4-1b23-4236-8e3c-88fb7df16b70/1dd6fa46-4b57-4bec-9e1f-435d2a880efe.svg" />
 

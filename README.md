@@ -21,7 +21,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483)](https://discord.com/users/438056108058345483)
 
 
-<img  src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
+<img align="right"  src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/heckerboi2.gif" />
 </div>
 
 

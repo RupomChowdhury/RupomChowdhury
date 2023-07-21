@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<img height="150" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
+<img height="150" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 <div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/438056108058345483)](https://discord.com/users/438056108058345483)

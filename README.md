@@ -4,13 +4,14 @@
 <p align="center"> <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->
 
----
 
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=853 src="https://github-profile-trophy.vercel.app/?username=RupomChowdhury&theme=juicyfresh&column=8"/>
 </a>
 
 --->
+
+---
 
 <div align="center">
 <img height="170" align="left" src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />

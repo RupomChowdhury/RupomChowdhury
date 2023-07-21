@@ -36,7 +36,7 @@
 ---
 
 
-<figure><embed src="https://wakatime.com/share/@rupom/786703ab-abd1-4ef4-a261-37bf0432bdc3.svg"></embed></figure>
+<img src="https://wakatime.com/share/@rupom/786703ab-abd1-4ef4-a261-37bf0432bdc3.svg"/>
 
 
 ---

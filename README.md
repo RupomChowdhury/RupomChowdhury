@@ -14,7 +14,7 @@
 ---
 
 
-<div align="center">
+<div>
 <img align="left"  src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/prev3.gif" />
 
   

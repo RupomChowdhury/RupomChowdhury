@@ -1,7 +1,7 @@
 <!--<h1 align="center">Hi 👋, I'm Rupom Chowdhury!</h1>-->
 <img align="left" src="https://github.com/visibleuser/visibleuser/blob/main/gangster.gif" alt="Gangster"/> <img height="25" width="25" align="right" src="https://github.com/visibleuser/visibleuser/blob/main/prev5.gif" alt="Verified"/>
 <h3 align="center">Learning to Code</h3>
-<p align="center" > <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a><white-space: nowrap><a><img src="/java.svg" /></a><a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
+<p align="center" > <a><img src="https://badgen.net/badge/icon/windows?icon=windows&label" /></a> <a><img src="/java.svg" /></a> <a><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" /></a> <a><img src="https://badgen.net/badge/icon/firefox?icon=firefox&label" /></a>
 </p> <!-- © RupomChowdhury -->
 
 

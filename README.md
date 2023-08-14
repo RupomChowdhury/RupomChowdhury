@@ -49,7 +49,7 @@
 <p width=80 height="170">
 <h3>Connect with me:</h3>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
-<a href="https://m.me/web.rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/fbm.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a href="https://m.me/web.rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/fbm.svg" alt="RupomChowdhury" height="28" width="38" /></a>
 <a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <!--<a href="https://twitter.com/web_rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/twitter.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> 
 <a href="https://codepen.io/RupomChowdhury" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/codepen.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>

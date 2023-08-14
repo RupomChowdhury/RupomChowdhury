@@ -49,14 +49,14 @@
 <p width=80 height="170">
 <h3>Connect with me:</h3>
 <a href="mailto:web.rupom@gmail.com" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/gmail.svg" alt="RupomChowdhury" height="30" width="40" /></a>
-<a href="https://www.facebook.com/web.rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
+<a href="https://m.me/web.rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/facebook.svg" alt="RupomChowdhury" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shahin-akhtar-rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/linkedin.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://twitter.com/web_rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/twitter.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> <!-- © RupomChowdhury -->
+<!--<a href="https://twitter.com/web_rupom" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/twitter.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> 
 <a href="https://codepen.io/RupomChowdhury" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/codepen.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://dev.to/RupomChowdhury" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/dev-dot-to.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> <!-- © RupomChowdhury -->
+<a href="https://dev.to/RupomChowdhury" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/dev-dot-to.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/14770061" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/stackoverflow.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/RupomChowdhury" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/codesandbox.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
-<a href="https://medium.com/@rupombd" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/medium.svg" alt="Rupom Chowdhury" height="30" width="40" /></a>
+<a href="https://medium.com/@rupombd" target="blank"><img src="https://github.com/RupomChowdhury/RupomChowdhury/blob/main/c-icons/medium.svg" alt="Rupom Chowdhury" height="30" width="40" /></a> -->
 </p>
 </div>
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=RupomChowdhury" alt="RupomChowdhury" /> </p> -->

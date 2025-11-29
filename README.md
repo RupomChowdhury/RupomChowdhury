@@ -30,7 +30,7 @@
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RupomChowdhury&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupomChowdhury&layout=compact" />
-</div> <!-- © RupomChowdhury -->
+</div> <!-- © RupomChowdhury 
 
 
 ---
@@ -38,7 +38,7 @@
 
 <img src="https://wakatime.com/share/@rupom/d32c826f-a954-4382-b117-a0691e3b660c.svg"/>
 
-
+-->
 ---
 
 
